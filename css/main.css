@@ -1,0 +1,108 @@
+body {
+
+  font-size: 75%;
+
+}
+
+
+
+
+.container>.row {
+  margin-top: 50px;
+}
+
+
+.card {
+  padding: 3%;
+  margin-top: 25px;
+}
+
+img {
+  width:100%;
+}
+
+
+
+.card-title {
+  font-size: 110%;
+  font-weight: bold;
+}
+
+h1 {
+  font-weight: normal;
+}
+
+.form_p, .checkbox {
+  color: #111;
+  display:inline-block;
+  margin: auto 5%;
+  margin-top: 15px;
+
+}
+
+
+
+.inputs {
+  display:block;
+  width: 90%;
+  margin: auto;
+}
+
+.forgot {
+  float:right;
+  color: #0066c0;
+  font-weight: lighter;
+}
+
+.new_user {
+  /* font-size: 75%; */
+  display: block;
+  text-align: center;
+  color: #767676;
+  font-weight: 400;
+
+}
+
+
+label {
+  display:inline-block;
+  margin: auto 5%;
+  font-weight: bold;
+  margin-top: 15px;
+}
+
+.btn {
+  display:block;
+  width: 90%;
+  margin: 15px auto;
+  background: #f0c14b;
+  border-color: #a88734 #9c7;
+  height:35px;
+  border-width: 1px;
+  border-radius: 3px;
+  border-style: solid;
+
+}
+.new_button {
+  display:block;
+  width: 90%;
+  margin: 15px auto;
+  height:35px;
+  background: #e7e9ec;
+  border-radius: 3px;
+  border-color: #adb1b8 #a2a6ac #8d9096;
+  border-style: solid;
+  border-width: 1px;
+}
+
+p {
+  display:inline-block;
+
+  padding: 7px;
+}
+
+footer {
+  margin-top: 25px;
+  border-top: 1px solid lightgrey;
+
+}
